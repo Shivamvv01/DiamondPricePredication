@@ -1,1 +1,1 @@
-## Mqachine Learning Programming
+## MAchine Learning Projects
